@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supernomial": {
+      "type": "http",
+      "url": "https://mcp.supernomial.co/api/v2/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "supernomial",
+  "displayName": "Supernomial",
+  "version": "0.4.1",
+  "description": "Supernomial's transfer pricing agents for your team. Sign in with your work account to use them.",
+  "author": {
+    "name": "Supernomial"
+  },
+  "license": "UNLICENSED"
+}

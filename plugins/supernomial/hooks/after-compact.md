@@ -1,0 +1,1 @@
+Supernomial: this conversation was just compacted, so you now hold only a summary of it. Before the next step, use the transfer-pricing skill again and re-read your home as at the start of a session: Start here.md, To do.md and your latest notes.
