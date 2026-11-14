@@ -17,4 +17,4 @@ Your work stays in the folder you choose on your own drive. Supernomial does not
 
 hello@supernomial.co
 
-Version 0.4.1.
+Version 0.4.2.
