@@ -1,10 +1,18 @@
 {
   "name": "supernomial",
   "displayName": "Supernomial",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Supernomial's transfer pricing agents for your team. Sign in with your work account to use them.",
   "author": {
-    "name": "Supernomial"
+    "name": "Supernomial",
+    "url": "https://supernomial.co"
   },
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "homepage": "https://supernomial.co",
+  "privacyPolicyUrl": "https://supernomial.co/trust-center/privacy-policy/",
+  "network": {
+    "hosts": [
+      "mcp.supernomial.co"
+    ]
+  }
 }

@@ -13,8 +13,18 @@ Ask anything about your transfer pricing work in a new chat. The first time, you
 
 Your work stays in the folder you choose on your own drive. Supernomial does not receive your files.
 
+## Install
+
+In Claude Cowork: Customize, Plugins, Add marketplace, enter `supernomial/supernomial`, then install Supernomial. In Claude Code:
+
+    /plugin install supernomial --marketplace supernomial/supernomial
+
+## Privacy
+
+How we handle data: https://supernomial.co/trust-center/privacy-policy/
+
 ## Contact
 
 hello@supernomial.co
 
-Version 0.4.2.
+Version 0.4.3.
