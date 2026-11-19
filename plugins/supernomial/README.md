@@ -27,4 +27,4 @@ How we handle data: https://supernomial.co/trust-center/privacy-policy/
 
 hello@supernomial.co
 
-Version 0.4.3.
+Version 0.4.4.
